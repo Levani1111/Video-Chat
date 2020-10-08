@@ -9,9 +9,9 @@ This app uses Firebase for real time communication and WebRTC to create video ch
 - JavaScript
 - fontawesome
 - Bootstrap v4.5.2
-- Deploy on netlify
 - WebRTC
 - Firebase
+- Deploy on netlify
 
 #### Deployed
 
