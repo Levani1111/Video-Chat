@@ -5,6 +5,8 @@ This app uses Firebase for real time communication and WebRTC to create video ch
 #### Tech
 
 - Vue.JS - CLI
+- HTML
+- JavaScript
 - fontawesome
 - Bootstrap v4.5.2
 - Deploy on netlify
